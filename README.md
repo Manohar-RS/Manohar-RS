@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋 I'm Manohar Sonawane
 
-<!--
-**Manohar-RS/Manohar-RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's in Computer Science (Pursuing)
 
-Here are some ideas to get you started:
+📊 Aspiring Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- SQL
+- Python
+- Power BI
+- Excel
+- Pandas
+- NumPy
+- Machine Learning
+
+## Projects
+
+- Mobile Sales Dashboard
+- Credit Card Fraud Detection
+
+## Contact
+
+📧 manoharofficial027@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/manohar-sonawane-71b947293/
