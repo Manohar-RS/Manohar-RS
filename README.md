@@ -1,27 +1,103 @@
-# Hi 👋 I'm Manohar Sonawane
+# Hi 👋, I'm Manohar Sonawane
 
-🎓 Master's in Computer Science (Pursuing)
+### Aspiring Data Analyst | Power BI | SQL | Python | Excel
 
-📊 Aspiring Data Analyst
+I am a Computer Science graduate currently pursuing a Master's in Computer Science.
 
-## Skills
+I enjoy transforming raw data into meaningful insights through dashboards, reports, and machine learning projects.
 
-- SQL
+Currently looking for opportunities as a:
+
+- Data Analyst
+- MIS Analyst
+- Reporting Analyst
+- Data Engineer Intern
+
+---
+
+## 🚀 Tech Stack
+
 - Python
+- SQL
 - Power BI
-- Excel
+- Microsoft Excel
 - Pandas
 - NumPy
-- Machine Learning
+- Scikit-Learn
+- Git
+- GitHub
+- Java
+- MySQL
 
-## Projects
+---
 
-- Mobile Sales Dashboard
-- Credit Card Fraud Detection
+## 📌 Featured Projects
 
-## Contact
+### 📊 Mobile Sales Dashboard
 
-📧 manoharofficial027@gmail.com
+Built an interactive Power BI dashboard to analyze sales performance.
+
+Technology:
+
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+---
+
+### 💳 Credit Card Fraud Detection
+
+Machine Learning project using Logistic Regression.
+
+Technology:
+
+- Python
+- Pandas
+- NumPy
+- Scikit-Learn
+
+---
+
+### 🍔 Swiggy Sales Dashboard
+
+Interactive Excel Dashboard.
+
+Technology:
+
+- Excel
+- Pivot Tables
+- Charts
+
+---
+
+### 💰 Bachat Gat Software
+
+Final Year Java Project.
+
+Technology:
+
+- Java
+- Servlet
+- JDBC
+- MySQL
+
+---
+
+## 📜 Certifications
+
+- Programming in Python
+- Power BI Micro Course
+
+---
+
+## 🌐 Connect with Me
+
+📧 Email:
+manoharofficial027@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/manohar-sonawane-71b947293/
+
+🐙 GitHub:
+https://github.com/Manohar-Rs
