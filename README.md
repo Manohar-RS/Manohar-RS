@@ -10,6 +10,7 @@ Currently looking for opportunities as a:
 
 - Data Analyst
 - MIS Analyst
+- Power BI Analyst
 - Reporting Analyst
 - Data Engineer Intern
 
