@@ -101,6 +101,3 @@ manoharofficial027@gmail.com
 
 💼 LinkedIn:
 https://www.linkedin.com/in/manohar-sonawane-71b947293/
-
-🐙 GitHub:
-https://github.com/Manohar-Rs
