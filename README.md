@@ -13,6 +13,7 @@ Currently looking for opportunities as a:
 - Power BI Analyst
 - Reporting Analyst
 - Data Engineer Intern
+- Python Developer
 
 ---
 
@@ -24,6 +25,7 @@ Currently looking for opportunities as a:
 - Microsoft Excel
 - Pandas
 - NumPy
+- Matplotlib
 - Scikit-Learn
 - Git
 - GitHub
