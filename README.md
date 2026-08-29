@@ -4,7 +4,7 @@
 
 I am a Computer Science graduate currently pursuing a Master's in Computer Science.
 
-I enjoy transforming raw data into meaningful insights through dashboards, reports, and machine learning projects.
+I enjoy transforming raw data into meaningful insights through dashboards, reports, machine learning projects, and Interactive Dashboards.
 
 Currently looking for opportunities as a:
 
@@ -62,7 +62,7 @@ Technology:
 
 ---
 
-### 🍔 Swiggy Sales Dashboard
+### 🍔 Swiggy Sale Dashboard
 
 Interactive Excel Dashboard.
 
