@@ -91,6 +91,7 @@ Technology:
 
 - Programming in Python
 - Power BI Micro Course
+- Advanced Excel Micro cource
 
 ---
 
