@@ -14,6 +14,7 @@ Currently looking for opportunities as a:
 - Reporting Analyst
 - Data Engineer Intern
 - Python Developer
+- Data Processing
 
 ---
 
